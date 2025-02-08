@@ -1,0 +1,76 @@
+.header {
+    max-width: 1800px;
+    width: 100%;
+    margin: 50px auto 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header .left-side {
+    display: flex;
+    gap: 66px;
+}
+
+.header .left-side .logo-container {
+    display: flex;
+    gap: 40px;
+}
+
+.header .left-side .menu {
+    display: flex;
+    gap: 40px;
+}
+
+.header .left-side .menu .menu-item {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    color: rgba(68, 68, 68, 1);
+    cursor: pointer;
+}
+
+.header .left-side .menu .menu-item .arrow-hover {
+    display: none;
+}
+
+.header .left-side .menu .menu-item.active,
+.header .left-side .menu .menu-item:hover {
+    color: rgba(255, 142, 142, 1);
+}
+
+.header .left-side .menu .menu-item.active .arrow-default {
+    display: none;
+}
+
+.header .left-side .menu .menu-item.active .arrow-hover {
+    display: inline-block;
+}
+
+.header .left-side .menu .menu-item:hover .arrow-hover {
+    display: inline-block;
+}
+
+.header .left-side .menu .menu-item:hover .arrow-default {
+    display: none;
+}
+
+.header .right-side {
+    display: flex;
+    gap: 40px;
+}
+
+.header .right-side .header-icon {
+    display: flex;
+    gap: 4px;
+    cursor: pointer;
+}
+
+.header .right-side .header-icon .counter {
+    background: rgba(0, 0, 0, 1);
+    color: white;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 14px;
+    padding: 3px 7px;
+    border-radius: 50%;
+}

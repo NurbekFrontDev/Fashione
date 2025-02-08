@@ -1,0 +1,31 @@
+.shop-wrapper {
+
+}
+
+.shop-wrapper .left-side {
+
+}
+
+.shop-wrapper .left-side .left-side-search {
+    position: relative;
+}
+
+.shop-wrapper .left-side .left-side-search .search {
+    outline: none;
+    border: none;
+    border-bottom: 1px solid rgba(68, 68, 68, 20%);
+    padding-bottom: 15px;
+}
+
+.shop-wrapper .left-side .left-side-search .search::placeholder {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    opacity: 50%;
+}
+
+.shop-wrapper .left-side .left-side-search .search-icon {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
