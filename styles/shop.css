@@ -1,7 +1,10 @@
-.shop {
+.container {
     max-width: 1140px;
     width: 100%;
     margin: 0 auto;
+}
+
+.shop {
     display: flex;
     gap: 50px;
     margin-top: 200px;
@@ -39,6 +42,9 @@
 
 .products-wrapper {
     width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
 }
 
 .products-wrapper .sort-and-count {
@@ -77,14 +83,13 @@
 }
 
 .products-wrapper .products {
-    margin-top: 28px;
     display: flex;
     flex-wrap: wrap;
     gap: 50px 30px;
 }
 
 .products-wrapper .products .product {
-    max-width: 262px;
+    max-width: 261px;
     width: 100%;
     display: flex;
     flex-direction: column;
