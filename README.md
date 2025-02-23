@@ -47,5 +47,5 @@ git clone git@github.com:NurbekFrontDev/Fashione.git
 ![Image](https://github.com/user-attachments/assets/b16b3973-a153-4e91-a1cc-ecd0dea8ef88)
 ## 📩 Контакты
 #### GitHub: [NurbekFrontDev](https://github.com/NurbekFrontDev)
-#### Telegram: [nurbekkDD](https://t.me/nurbekkDD)
-#### Email: [p896566@gmail.com](mailto:p896566@gmail.com)
+#### Telegram: [nurbekfrontdev](https://t.me/nurbekfrontdev)
+#### Email: [Email](mailto:dlaprogrammirovanieidlaameriki@gmail.com)

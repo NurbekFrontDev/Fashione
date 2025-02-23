@@ -27,6 +27,10 @@
     width: 100%;
 }
 
+.shop .sidebar .sidebar-search .search.search-row {
+    padding: 0 25px 15px 0;
+}
+
 .shop .sidebar .sidebar-search .search::placeholder {
     font-size: 14px;
     font-weight: 400;
