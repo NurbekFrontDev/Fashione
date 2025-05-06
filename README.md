@@ -40,9 +40,9 @@ git clone git@github.com:NurbekFrontDev/Fashione.git
 📂 Просто откройте файл index.html в браузере.
 
 ## 📸 Скриншоты
-![Image](https://github.com/user-attachments/assets/1c640a7f-a2e8-444b-977f-fdb10457b283)
+![Image](https://github.com/user-attachments/assets/ad184a80-6732-47ed-a39e-0d6be20f8236)
 
-![Image](https://github.com/user-attachments/assets/b16b3973-a153-4e91-a1cc-ecd0dea8ef88)
+![Image](https://github.com/user-attachments/assets/1338431f-770e-42b4-81e0-142b998f043d)
 ## 📩 Контакты
 #### GitHub: [NurbekFrontDev](https://github.com/NurbekFrontDev)
 #### Telegram: [nurbekfrontdev](https://t.me/nurbekfrontdev)
